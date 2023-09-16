@@ -1,0 +1,76 @@
+{
+    "trips": [
+        {
+            "title": "2 Night Stay in Venice",
+            "price": "125PLN",
+            "id": "1",
+            "loc": "Europe"
+        },
+        {
+            "title": "2 Night Stay in Warsaw",
+            "price": "100PLN",
+            "id": "2",
+            "loc": "Europe"
+        },
+        {
+            "title": "3 Night Stay in Monaco",
+            "price": "250PLN",
+            "id": "3",
+            "loc": "Europe"
+        },
+        {
+            "title": "4 Night Stay in Tokyo",
+            "price": "1250PLN",
+            "id": "4",
+            "loc": "Asia"
+        },
+        {
+            "title": "5 Night Stay in New York",
+            "price": "1500PLN",
+            "id": "5",
+            "loc": "North America"
+        },
+        {
+            "title": "3 Night Stay in Sydney",
+            "price": "950PLN",
+            "id": "6",
+            "loc": "Australia"
+        },
+        {
+            "title": "7 Night Stay in Cape Town",
+            "price": "1800PLN",
+            "id": "7",
+            "loc": "Africa"
+        },
+        {
+            "title": "2 Night Stay in Rio de Janeiro",
+            "price": "800PLN",
+            "id": "8",
+            "loc": "South America"
+        },
+        {
+            "title": "3 Night Stay in Moscow",
+            "price": "600PLN",
+            "id": "9",
+            "loc": "Europe"
+        },
+        {
+            "title": "4 Night Stay in Beijing",
+            "price": "1100PLN",
+            "id": "10",
+            "loc": "Asia"
+        },
+        {
+            "title": "2 Night Stay in Toronto",
+            "price": "450PLN",
+            "id": "11",
+            "loc": "North America"
+        },
+        {
+            "title": "5 Night Stay in Buenos Aires",
+            "price": "1200PLN",
+            "id": "12",
+            "loc": "South America"
+        }
+    ]
+}

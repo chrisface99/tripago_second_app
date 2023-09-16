@@ -1,0 +1,20 @@
+{
+  "trips": [
+    {
+      "title": "2 Night Stay in Venice",
+      "price": "125PLN"
+    },
+    {
+      "title": "2 Night Stay in Warsaw",
+      "price": "100PLN"
+    },
+    {
+      "title": "3 Night Stay in Monaco",
+      "price": "250PLN"
+    },
+    {
+      "title": "4 Night Stay in Paris",
+      "price": "1250PLN"
+    }
+  ]
+}
